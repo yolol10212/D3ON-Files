@@ -1,0 +1,5 @@
+D3ON Loaded.
+Error: Invalid Syntax. Command Name: (hello) At 20:15:59.87 Wed 06/10/2021.
+Error: Invalid Syntax. Command Name: (log) At 20:16:07.65 Wed 06/10/2021.
+D3ON Loaded.
+D3ON Loaded.
